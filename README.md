@@ -6,7 +6,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeirf12&theme=gruvbox&layout=compact&hide_border=true" />
+  <img align="left" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeirf12&theme=gruvbox&layout=compact&hide_border=true" />
 </a>
 
 <!--
