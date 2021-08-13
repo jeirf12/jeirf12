@@ -1,6 +1,6 @@
 ### Hi, i am Jhonfer  👋
 ### A bit about me 🌱
-I like swimming, listening to music, I have very few words even in coding. 🖥️
+I like to swim, listen to music and I am not very talkative even in coding. 🖥️
 
 #### :octocat: To see my projects, [click here](https://gist.github.com/jeirf12/c3b5d4cf64b6e4ff6ddec7a444e21e40).
 
