@@ -1,6 +1,12 @@
 ### Hi, i am Jhonfer  👋
 ### A bit about me 🌱
-I like to swim, listen to music and I am not very talkative even in coding. 🖥️
+I'm a student pasionate about tecnology and the pursuit of best practices in software development. 🖥️
+
+Right now, I am learning everything related to web development, 
+
+in the backend such as deployments, java, scripting, spring and its ecosystem, among others. 
+
+On the frontend side, like angular, intercepts, guards, routes, and latest versions of it. 
 
 #### :octocat: To see my projects, [click here](https://gist.github.com/jeirf12/c3b5d4cf64b6e4ff6ddec7a444e21e40).
 
