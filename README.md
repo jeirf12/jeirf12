@@ -13,10 +13,10 @@ On the frontend side, like angular, intercepts, guards, routes, and latest versi
 #### :octocat: To see other projects, [click here](https://gist.github.com/jeirf12/c3b5d4cf64b6e4ff6ddec7a444e21e40).
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="460px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jeirf12&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true&border_radius=20px&bg_color=473419"/>
+  <img align="center" width="460px" src="https://github-readme-stats.vercel.app/api?username=jeirf12&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true&border_radius=20px&bg_color=473419"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="340px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jeirf12&langs_count=8&theme=transparent&layout=compact&hide_border=true&border_radius=20px&bg_color=473419"/>
+  <img align="center" width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeirf12&langs_count=8&theme=transparent&layout=compact&hide_border=true&border_radius=20px&bg_color=473419"/>
 </a>
 
 <!--
